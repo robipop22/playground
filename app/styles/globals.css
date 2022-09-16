@@ -41,29 +41,34 @@ section {
 }
 
 h1 {
+	font-family: 'Montserrat-Bold', sans-serif;
 	font-size: 60px;
 	font-weight: 500;
 	color: #fff;
 }
 
 h2 {
+	font-family: 'Montserrat-Bold', sans-serif;
 	font-size: 2.6rem;
 	font-weight: 500;
 	color: #fff;
 }
 
 h3 {
+	font-family: 'Montserrat-Bold', sans-serif;
 	font-size: 2.25rem;
 	font-weight: 500;
 }
 
 h4 {
+	font-family: 'Montserrat-Bold', sans-serif;
 	font-size: 1.5rem;
 	font-weight: 500;
 	color: #fff;
 }
 
 h5 {
+	font-family: 'Montserrat-Bold', sans-serif;
 	font-weight: 600;
 	font-size: 1.3rem;
 	font-weight: 500;
