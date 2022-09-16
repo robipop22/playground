@@ -10,6 +10,10 @@ module.exports = {
 				'primary-complementary': '#ce27a4',
 				'secondary-complementary': '#901b73',
 			},
+			fontFamily: {
+				sans: ['Montserrat'],
+				'Montserrat-bold': 'Montserrat-Bold',
+			},
 		},
 	},
 	plugins: [],
