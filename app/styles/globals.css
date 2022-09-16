@@ -1,0 +1,78 @@
+* {
+	margin: 0;
+	box-sizing: border-box;
+}
+
+:root {
+	color-scheme: dark;
+	scroll-behavior: smooth;
+}
+
+body {
+	background-color: #3d4f52;
+	color: #fff;
+	overflow-x: hidden;
+}
+
+body,
+p,
+span,
+button,
+div,
+section {
+	font-family: sans-serif;
+	color: #fff;
+}
+
+h1 {
+	font-size: 60px;
+	font-weight: 500;
+	color: #fff;
+}
+
+h2 {
+	font-size: 2.6rem;
+	font-weight: 500;
+	color: #fff;
+}
+
+h3 {
+	font-size: 2.25rem;
+	font-weight: 500;
+}
+
+h4 {
+	font-size: 1.5rem;
+	font-weight: 500;
+	color: #fff;
+}
+
+h5 {
+	font-weight: 600;
+	font-size: 1.3rem;
+	font-weight: 500;
+	color: #fff;
+}
+
+p,
+span {
+	font-size: 1 rem;
+}
+
+.gradient-background {
+	background: rgb(39, 207, 204);
+	background: -moz-linear-gradient(
+		138deg,
+		rgba(39, 207, 204, 1) 13%,
+		rgba(27, 144, 144, 1) 60%,
+		rgba(39, 205, 202, 1) 93%
+	);
+	background: -webkit-linear-gradient(
+		138deg,
+		rgba(39, 207, 204, 1) 13%,
+		rgba(27, 144, 144, 1) 60%,
+		rgba(39, 205, 202, 1) 93%
+	);
+	background: linear-gradient(138deg, rgba(39, 207, 204, 1) 13%, rgba(27, 144, 144, 1) 60%, rgba(39, 205, 202, 1) 93%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#27cfcc",endColorstr="#27cdca",GradientType=1);
+}
