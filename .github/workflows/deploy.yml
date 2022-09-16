@@ -25,11 +25,10 @@ jobs:
           vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID}}
           vercel-args: '--scope=robipop22' # change this to your project scope
           scope: ${{ secrets.VERCEL_ORG_ID }}
-          alias-domains: |
-            dnb-stack.vercel.app
+          # alias-domains: |
+          #   dnb-stack.vercel.app
 
       # uncomment the next 2 lines if you want your tests to run after the deploy
       # - run: yarn
       # - run: yarn cypress:run
-
 # {{BRANCH}}.myapp.com - for deploying to different envs via branches
