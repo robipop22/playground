@@ -35,10 +35,13 @@ p,
 span,
 button,
 div,
-section,
-input {
+section {
 	font-family: 'Montserrat', sans-serif;
 	color: #fff;
+}
+input {
+	font-family: 'Montserrat', sans-serif;
+	color: #000;
 }
 
 h1 {
