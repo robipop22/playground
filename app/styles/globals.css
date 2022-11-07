@@ -35,7 +35,8 @@ p,
 span,
 button,
 div,
-section {
+section,
+input {
 	font-family: 'Montserrat', sans-serif;
 	color: #fff;
 }
